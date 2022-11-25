@@ -1,6 +1,8 @@
-# VC4CTL
+---
+description: Command-line tool for Crestron VC-4
+---
 
-## VC4CTL
+# VC4CTL
 
 Vc4ctl is a command-line tool for interacting with the REST API of [Crestron VC-4](https://www.crestron.com/Products/Control-Hardware-Software/Software/Licensing/VC-4-ROOM) control servers in a similar manner to tools like kubectl for Kubernetes.
 
